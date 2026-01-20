@@ -39,6 +39,14 @@ I am a **Second Year** Engineering Student at **B.M.S College of Engineering** w
 
 ---
 
+### 📊 **GitHub Stats**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ankita562&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Ankita's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankita562&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+---
 ### 🤝 **Let's Connect**
 
 <div align="center">
