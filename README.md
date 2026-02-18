@@ -7,6 +7,7 @@
 </div>
 
 ---
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&color=blueviolet&style=flat-square)
 
 ### 👩‍💻 **About Me**
 
