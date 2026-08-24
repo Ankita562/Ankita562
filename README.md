@@ -10,20 +10,25 @@
 
 ### 👩‍💻 **About Me**
 
-I am a **Second Year** Engineering Student at **B.M.S College of Engineering** with a passion for scalable backend systems and AI-driven applications. My coding philosophy revolves around **clean architecture** and **community collaboration**.
+I am a **Third Year** Engineering Student with a passion for scalable backend systems and AI-driven applications. My coding philosophy revolves around **clean architecture** and **community collaboration**.
 
 - 🔭 **Major Projects:**
   - **Sentinel:** AI-Powered Supply Chain Security (FastAPI, Microservices).
-  - **SimpleStep:** Multimodal AI for Accessibility (Gemini 2.0, React).
-  - **MedCare:** Healthcare Management System (Node.js, MongoDB).
+  - **ASTRAM TRIAGE:** Real-time Bengaluru traffic incident command dashboard built for Flipkart Gridlock Hackathon 2.0 — ML-based priority scoring (~97% R²) feeding a live dispatch UI. (React, Flask, HistGradientBoostingRegressor, TomTom API)
+  - **GigKavach:** AI-powered parametric income insurance platform for gig delivery workers, built at Guidewire DEVTrails 2026 — earned a 5-Star Seed rating. (React Native, Node.js, Flask, MongoDB)
+
+- 🚧 **Currently Building:**
+  - **Cross-Examined:** AI debate web app — structured 3-phase debates against an LLM opponent, with a standalone Java service for rule-based scoring. (Node/Express, Groq API)
+  - **SquadRoute:** Group hangout planner for college students, solving decision fatigue and curfew coordination. (Spring Boot, PostgreSQL, React)
+  - **URL Shortener:** Backend-focused project covering routing, DB design, and click analytics (custom aliases, QR codes, geo/referrer logging). (Spring Boot, JPA/Hibernate, Postgres) — core endpoints already working
 
 - 🏆 **Open Source:**
   - Successfully completed **Hacktoberfest 2025** (3 PRs merged).
-  - Actively preparing for **GSoC 2026** (Focus: Java/Web Dev orgs).
+  - Actively preparing for **GSoC 2027** (Focus: Java/Web Dev orgs).
 
 - ⚡ **Offline Life:**
-  - When I'm not pushing code, I'm swimming 🏊‍♀️ (perfecting my breaststroke!).
-  - I love reading **Horror-Comedy** novels.
+  - When I'm not pushing code, I'm swimming 🏊‍♀️ (perfecting my butterfly!).
+  - I love playing **Speed chess**.
 
 ---
 
@@ -33,18 +38,9 @@ I am a **Second Year** Engineering Student at **B.M.S College of Engineering** w
 
 | **Core** | **Frontend** | **Backend** | **Tools** |
 | :---: | :---: | :---: | :---: |
-| <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> <br> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> | <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <br> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> | <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /> <br> <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" /> <br> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <br> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> |
+| <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> <br> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> | <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <br> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> | <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /> <br> <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" /> <br> <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" /> <br> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <br> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> |
 
 </div>
-
----
-
-### 📊 **GitHub Stats**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ankita562&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Ankita's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankita562&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
 
 ---
 ### 🤝 **Let's Connect**
