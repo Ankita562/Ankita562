@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=336699&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Ankita+👋;Full+Stack+Developer+💻;Open+Source+Enthusiast+❤️;Building;Cross+Examined;+%26+SquadRoute+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=336699&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Ankita+👋;Full+Stack+Developer+💻;Open+Source+Enthusiast+❤️;Currently+Building+Scoper+🚀" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -13,14 +13,14 @@
 I am a **Third Year** Engineering Student with a passion for scalable backend systems and AI-driven applications. My coding philosophy revolves around **clean architecture** and **community collaboration**.
 
 - 🔭 **Major Projects:**
+  - **FaceGotcha:** Fully offline face-recognition app that finds the photos you're in from a group-chat photo dump. No cloud, no API keys, nothing leaves your device. Tested on 60 WhatsApp photos: 27 auto-matched, only 9 needed a manual swipe review. (Python, Flask, OpenCV YuNet + SFace) — [GitHub](https://github.com/Ankita562/facegotcha)
+  - **URL Shortener:** Backend-focused project covering routing, DB design, and click analytics (custom aliases, QR codes, geo/referrer logging). (Spring Boot, JPA/Hibernate, Postgres)
   - **Sentinel:** AI-Powered Supply Chain Security (FastAPI, Microservices).
   - **ASTRAM TRIAGE:** Real-time Bengaluru traffic incident command dashboard built for Flipkart Gridlock Hackathon 2.0 — ML-based priority scoring (~97% R²) feeding a live dispatch UI. (React, Flask, HistGradientBoostingRegressor, TomTom API)
   - **GigKavach:** AI-powered parametric income insurance platform for gig delivery workers, built at Guidewire DEVTrails 2026 — earned a 5-Star Seed rating. (React Native, Node.js, Flask, MongoDB)
 
 - 🚧 **Currently Building:**
-  - **Cross-Examined:** AI debate web app — structured 3-phase debates against an LLM opponent, with a standalone Java service for rule-based scoring. (Node/Express, Groq API)
-  - **SquadRoute:** Group hangout planner for college students, solving decision fatigue and curfew coordination. (Spring Boot, PostgreSQL, React)
-  - **URL Shortener:** Backend-focused project covering routing, DB design, and click analytics (custom aliases, QR codes, geo/referrer logging). (Spring Boot, JPA/Hibernate, Postgres) — core endpoints already working
+  - **Scoper:** AI crawler that scopes hackathon problem statements for CS students.
 
 - 🏆 **Open Source:**
   - Successfully completed **Hacktoberfest 2025** (3 PRs merged).
@@ -43,6 +43,22 @@ I am a **Third Year** Engineering Student with a passion for scalable backend sy
 </div>
 
 ---
+
+### 📊 **GitHub Stats**
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Ankita562&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</div>
+
+---
+
+### ✍️ **Latest from DEV**
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
 ### 🤝 **Let's Connect**
 
 <div align="center">
@@ -52,7 +68,7 @@ I am a **Third Year** Engineering Student with a passion for scalable backend sy
   <a href="https://discord.com/users/coffeee_ee">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
-  <a href="mailto:ankitaguptaa989@email.com">
+  <a href="mailto:ankitaguptaa989@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </div>
