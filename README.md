@@ -55,6 +55,8 @@ I am a **Third Year** Engineering Student with a passion for scalable backend sy
 ### ✍️ **Latest from DEV**
 
 <!-- BLOG-POST-LIST:START -->
+- [I Built a Ghost That Shows You Your Future as a Comic Book &lpar;100% on My Laptop, Wi-Fi Off&rpar; 🎃🕯️](https://dev.to/ankita562/i-built-a-ghost-that-shows-you-your-future-as-a-comic-book-100-on-my-laptop-wi-fi-off-35oa)
+- [I Built an Offline Face Finder So My Friends Can Stop Scrolling the Group Chat.](https://dev.to/ankita562/i-built-an-offline-face-finder-so-my-friends-can-stop-scrolling-the-group-chat-31gf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
