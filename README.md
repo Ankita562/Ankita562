@@ -13,8 +13,6 @@
 I am a **Third Year** Engineering Student with a passion for scalable backend systems and AI-driven applications. My coding philosophy revolves around **clean architecture** and **community collaboration**.
 
 - 🔭 **Major Projects:**
-  - **FaceGotcha:** Fully offline face-recognition app that finds the photos you're in from a group-chat photo dump. No cloud, no API keys, nothing leaves your device. Tested on 60 WhatsApp photos: 27 auto-matched, only 9 needed a manual swipe review. (Python, Flask, OpenCV YuNet + SFace) — [GitHub](https://github.com/Ankita562/facegotcha)
-  - **URL Shortener:** Backend-focused project covering routing, DB design, and click analytics (custom aliases, QR codes, geo/referrer logging). (Spring Boot, JPA/Hibernate, Postgres)
   - **Sentinel:** AI-Powered Supply Chain Security (FastAPI, Microservices).
   - **ASTRAM TRIAGE:** Real-time Bengaluru traffic incident command dashboard built for Flipkart Gridlock Hackathon 2.0 — ML-based priority scoring (~97% R²) feeding a live dispatch UI. (React, Flask, HistGradientBoostingRegressor, TomTom API)
   - **GigKavach:** AI-powered parametric income insurance platform for gig delivery workers, built at Guidewire DEVTrails 2026 — earned a 5-Star Seed rating. (React Native, Node.js, Flask, MongoDB)
@@ -48,6 +46,7 @@ I am a **Third Year** Engineering Student with a passion for scalable backend sy
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Ankita562&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats" />
 </div>
 
 ---
